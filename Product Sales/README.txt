@@ -8,7 +8,7 @@ with a focus on flexibility, clarity, and ease of use.
 FEATURES
 - Flexible Data Loading:
   - Supports CSV, Excel, and TXT files with automatic delimiter detection.
-  - Allows user to select the data directory and file interactively.
+  - Allow users to select the data directory and file interactively.
 
 - Date Field Handling:
   - Auto-detects date columns based on user-specified or custom formats (including Unix epoch).

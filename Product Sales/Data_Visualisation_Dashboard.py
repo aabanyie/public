@@ -1033,8 +1033,7 @@ def generate_visualisation(df, detected_date_fields=None):
             print("Could not plot: invalid category or value selection.")
 
     else:
-        print("\nThis visualisation type is not yet implemented.")
-        
+        print("\nThis visualisation type is not yet implemented.")        
 
 def main():
     print()
